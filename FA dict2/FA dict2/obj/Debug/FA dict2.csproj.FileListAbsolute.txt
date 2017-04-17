@@ -1,0 +1,66 @@
+D:\C#\FA dict2\FA dict2\bin\Debug\FA dict2.exe.config
+D:\C#\FA dict2\FA dict2\bin\Debug\FA dict2.exe
+D:\C#\FA dict2\FA dict2\bin\Debug\FA dict2.pdb
+D:\C#\FA dict2\FA dict2\obj\Debug\FA_dict2.Form1.resources
+D:\C#\FA dict2\FA dict2\obj\Debug\FA_dict2.Properties.Resources.resources
+D:\C#\FA dict2\FA dict2\obj\Debug\FA dict2.csproj.GenerateResource.Cache
+D:\C#\FA dict2\FA dict2\obj\Debug\FA dict2.exe
+D:\C#\FA dict2\FA dict2\obj\Debug\FA dict2.pdb
+D:\C#\FA dict2\FA dict2\obj\Debug\FA dict2.csprojResolveAssemblyReference.cache
+C:\My computer\C#\FA dict2\FA dict2\bin\Debug\FA dict2.exe.config
+C:\My computer\C#\FA dict2\FA dict2\obj\Debug\FA dict2.exe
+C:\My computer\C#\FA dict2\FA dict2\obj\Debug\FA dict2.pdb
+C:\My computer\C#\FA dict2\FA dict2\bin\Debug\FA dict2.exe
+C:\My computer\C#\FA dict2\FA dict2\bin\Debug\FA dict2.pdb
+C:\My computer\C#\FA dict2\FA dict2\obj\Debug\FA dict2.csprojResolveAssemblyReference.cache
+C:\My computer\C#\FA dict2\FA dict2\obj\Debug\FA_dict2.Form1.resources
+C:\My computer\C#\FA dict2\FA dict2\obj\Debug\FA_dict2.Properties.Resources.resources
+C:\My computer\C#\FA dict2\FA dict2\obj\Debug\FA dict2.csproj.GenerateResource.Cache
+C:\My computer\set up\FA dict2\FA dict2\bin\Debug\FA dict2.exe.config
+C:\My computer\set up\FA dict2\FA dict2\bin\Debug\Database1.mdf
+C:\My computer\set up\FA dict2\FA dict2\bin\Debug\Database1_log.ldf
+C:\My computer\set up\FA dict2\FA dict2\bin\Debug\FA dict2.exe
+C:\My computer\set up\FA dict2\FA dict2\bin\Debug\FA dict2.pdb
+C:\My computer\set up\FA dict2\FA dict2\obj\Debug\FA dict2.csprojResolveAssemblyReference.cache
+C:\My computer\set up\FA dict2\FA dict2\obj\Debug\FA_dict2.Form1.resources
+C:\My computer\set up\FA dict2\FA dict2\obj\Debug\FA_dict2.Properties.Resources.resources
+C:\My computer\set up\FA dict2\FA dict2\obj\Debug\FA dict2.csproj.GenerateResource.Cache
+C:\My computer\set up\FA dict2\FA dict2\obj\Debug\FA dict2.exe
+C:\My computer\set up\FA dict2\FA dict2\obj\Debug\FA dict2.pdb
+C:\My computer\set up\FA dict2\FA dict2\bin\Debug\Interop.WMPLib.dll
+C:\My computer\set up\FA dict2\FA dict2\bin\Debug\AxInterop.WMPLib.dll
+C:\My computer\set up\FA dict2\FA dict2\obj\Debug\Interop.WMPLib.dll
+C:\My computer\set up\FA dict2\FA dict2\obj\Debug\AxInterop.WMPLib.dll
+C:\My computer\set up\FA dict2\FA dict2\obj\Debug\FA dict2.csproj.ResolveComReference.cache
+D:\college files\8th sem\major\final project\FA dict2\FA dict2\bin\Debug\FA dict2.exe.config
+D:\college files\8th sem\major\final project\FA dict2\FA dict2\obj\Debug\Interop.WMPLib.dll
+D:\college files\8th sem\major\final project\FA dict2\FA dict2\obj\Debug\AxInterop.WMPLib.dll
+D:\college files\8th sem\major\final project\FA dict2\FA dict2\obj\Debug\FA dict2.csproj.ResolveComReference.cache
+D:\college files\8th sem\major\final project\FA dict2\FA dict2\obj\Debug\FA dict2.exe
+D:\college files\8th sem\major\final project\FA dict2\FA dict2\obj\Debug\FA dict2.pdb
+D:\college files\8th sem\major\final project\FA dict2\FA dict2\bin\Debug\Database1.mdf
+D:\college files\8th sem\major\final project\FA dict2\FA dict2\bin\Debug\Database1_log.ldf
+D:\college files\8th sem\major\final project\FA dict2\FA dict2\bin\Debug\FA dict2.exe
+D:\college files\8th sem\major\final project\FA dict2\FA dict2\bin\Debug\FA dict2.pdb
+D:\college files\8th sem\major\final project\FA dict2\FA dict2\bin\Debug\Interop.WMPLib.dll
+D:\college files\8th sem\major\final project\FA dict2\FA dict2\bin\Debug\AxInterop.WMPLib.dll
+D:\college files\8th sem\major\final project\FA dict2\FA dict2\obj\Debug\FA dict2.csprojResolveAssemblyReference.cache
+D:\college files\8th sem\major\final project\FA dict2\FA dict2\obj\Debug\FA_dict2.Form1.resources
+D:\college files\8th sem\major\final project\FA dict2\FA dict2\obj\Debug\FA_dict2.Properties.Resources.resources
+D:\college files\8th sem\major\final project\FA dict2\FA dict2\obj\Debug\FA dict2.csproj.GenerateResource.Cache
+D:\github\workspace\search_engines\predictive-dictionary\FA dict2\FA dict2\bin\Debug\FA dict2.exe.config
+D:\github\workspace\search_engines\predictive-dictionary\FA dict2\FA dict2\obj\Debug\Interop.WMPLib.dll
+D:\github\workspace\search_engines\predictive-dictionary\FA dict2\FA dict2\obj\Debug\AxInterop.WMPLib.dll
+D:\github\workspace\search_engines\predictive-dictionary\FA dict2\FA dict2\obj\Debug\FA dict2.csproj.ResolveComReference.cache
+D:\github\workspace\search_engines\predictive-dictionary\FA dict2\FA dict2\obj\Debug\FA dict2.exe
+D:\github\workspace\search_engines\predictive-dictionary\FA dict2\FA dict2\obj\Debug\FA dict2.pdb
+D:\github\workspace\search_engines\predictive-dictionary\FA dict2\FA dict2\bin\Debug\Database1.mdf
+D:\github\workspace\search_engines\predictive-dictionary\FA dict2\FA dict2\bin\Debug\Database1_log.ldf
+D:\github\workspace\search_engines\predictive-dictionary\FA dict2\FA dict2\bin\Debug\FA dict2.exe
+D:\github\workspace\search_engines\predictive-dictionary\FA dict2\FA dict2\bin\Debug\FA dict2.pdb
+D:\github\workspace\search_engines\predictive-dictionary\FA dict2\FA dict2\bin\Debug\Interop.WMPLib.dll
+D:\github\workspace\search_engines\predictive-dictionary\FA dict2\FA dict2\bin\Debug\AxInterop.WMPLib.dll
+D:\github\workspace\search_engines\predictive-dictionary\FA dict2\FA dict2\obj\Debug\FA dict2.csprojResolveAssemblyReference.cache
+D:\github\workspace\search_engines\predictive-dictionary\FA dict2\FA dict2\obj\Debug\FA_dict2.Form1.resources
+D:\github\workspace\search_engines\predictive-dictionary\FA dict2\FA dict2\obj\Debug\FA_dict2.Properties.Resources.resources
+D:\github\workspace\search_engines\predictive-dictionary\FA dict2\FA dict2\obj\Debug\FA dict2.csproj.GenerateResource.Cache
