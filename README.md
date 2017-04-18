@@ -1,6 +1,6 @@
 # predictive-dictionary -college project
 
-   •	Implemented the TRIE data structure to provide the predictions.
+   •	Implemented the TRIE data structure to provide the predictions.        
    •	The application searches the desired pattern by traversing throughout the n-way tree called TRIE
 
 
