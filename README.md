@@ -4,6 +4,10 @@
    •	The application searches the desired pattern by traversing throughout the n-way tree called TRIE
 
 
+
+![predictive dictionary screenshot](https://cloud.githubusercontent.com/assets/13730116/25151461/544f70c2-24a3-11e7-8fc9-92d86b2bf3bc.png?raw=true "Optional Title")
+
+
 # Implementation of TRIE 
 
 A common application of a trie is storing a predictive text or autocomplete dictionary, such as found on a mobile telephone. Such applications take advantage of a tries’ ability to quickly search for, insert, and delete entries.
